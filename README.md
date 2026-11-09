@@ -5,11 +5,6 @@
 **NEON AURA AR** is an interactive, webcam-based hand-tracking experience that transforms your hand movements into dynamic neon visual effects and superpower animations.
 
 Built using JavaScript, HTML, CSS, and MediaPipe Hands, this project explores real-time computer vision, gesture recognition, creative coding, and interactive visual experiences — all without requiring any physical controllers.
-
-🌐 **Live Demo:** [Try NEON AURA AR](https://kritthik.github.io/Neon-Aura-AR/)
-
-💻 **GitHub Repository:** [Neon-Aura-AR](https://github.com/kritthik/Neon-Aura-AR)
-
 ---
 
 ## ✨ Features
